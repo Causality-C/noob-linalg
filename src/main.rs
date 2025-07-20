@@ -1,4 +1,3 @@
-
 use noob_linalg::Matrix;
 fn main() {
     let mut matrix = Matrix::new(3, 3);
